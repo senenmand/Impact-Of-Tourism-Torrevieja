@@ -1,5 +1,7 @@
 # Impact of Tourism in Torrevieja
 
+![Foto de Torrevieja](images/photo.jpg)
+
 ## Project Overview
 
 This repository contains a research project on the impact of tourism in **Torrevieja**.  
