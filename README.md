@@ -1,6 +1,6 @@
 # Impact of Tourism in Torrevieja
 
-![Foto de Torrevieja](images/sky_photo.jpg)
+![Foto de Torrevieja](images/sky_photo.png)
 
 ## Project Overview
 
